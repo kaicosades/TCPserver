@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Александр\source\repos\TCPserver\TCPclient\main.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Александр\source\repos\TCPserver\TCPclient\main.cpp(29,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TCPclient.vcxproj -> C:\Users\Александр\source\repos\TCPserver\x64\Debug\TCPclient.exe

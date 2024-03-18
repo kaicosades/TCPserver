@@ -1,0 +1,9 @@
+﻿  ClientSocket.cpp
+  ServerSocket.cpp
+  Socket.cpp
+C:\Users\Александр\source\repos\WinSocketChat\WinSocketChat\Socket.cpp(34,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\Александр\source\repos\WinSocketChat\WinSocketChat\main.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+C:\Users\Александр\source\repos\WinSocketChat\WinSocketChat\Socket.cpp(61): warning C4172: returning address of local variable or temporary: message
+  WinSocketChat.vcxproj -> C:\Users\Александр\source\repos\WinSocketChat\x64\Debug\WinSocketChat.exe

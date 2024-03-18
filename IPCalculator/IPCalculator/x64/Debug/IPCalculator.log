@@ -1,0 +1,6 @@
+﻿  Address.cpp
+C:\Users\Александр\source\repos\IPCalculator\IPCalculator\Address.h(46,8): warning C4101: 'binary_address': unreferenced local variable
+  (compiling source file 'Address.cpp')
+  
+C:\Users\Александр\source\repos\IPCalculator\IPCalculator\Address.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  IPCalculator.vcxproj -> C:\Users\Александр\source\repos\IPCalculator\x64\Debug\IPCalculator.exe
